@@ -9,7 +9,7 @@ $twig = new Twig_Environment($loader, array(
 $dbConf = [];
 $dbConf['host']= 'localhost';
 $dbConf['user'] = 'root';
-$dbConf['pass'] = 'AgrafkA1950';
+$dbConf['pass'] = '';
 $dbConf['database'] = 'uptime';
 $dbConf['engine'] = 'mysql';
 
